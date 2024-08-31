@@ -19,4 +19,4 @@
 
 ## For running this project 
 1. After building the project, run the executable: ./Calculator
-"# Scientific-calculator-in-C-" 
+"# Scientific-calculator-in-Cpp" 
